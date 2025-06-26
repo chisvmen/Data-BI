@@ -21,4 +21,16 @@ El empaque tiene un diseño minimalista, moderno y profesional, con fondo de col
 •	1 mini motocicleta estilo chopper color verde militar obscuro con un grafiti estilo Los Angeles en el tanque como el nombre "Valyria"
 Finalmente dale una perspectiva frontal 3d a la caja pero que se pueda percibir todo. Pon la caja frente una ciudad y que se persiva de fondo la torre latinoamerica y naturaleza como arboles de jacaranda muy frondosos
 
-* 
+* Matriz de casos de prueba paso a paso
+GENERA UNA MATRIZ DEL PASO A PASO PARA REALIZAR PRUEBAS de una base de datos Oracle H2 que almacene informacion desde la capa de integracion de un servicio MQ para casos exitosos donde las pruebas DONDE LA PRIMERA COLUMNA ES Numero de paso, la columna 2 descripcion del paso y la columna 3 es la accion o resultado esperado de la prueba 
+
+GENERA UNA MATRIZ DEL PASO A PASO PARA REALIZAR PRUEBAS de un microservicio de la capa de integracion para casos exitosos donde las pruebas se realizan a traves open shift DONDE LA PRIMERA COLUMNA ES Numero de paso, la columna 2 descripcion del paso y la columna 3 es la accion o resultado esperado de la prueba 
+
+GENERA UNA MATRIZ DEL PASO A PASO PARA REALIZAR PRUEBAS de un microservicio de la capa de integracion donde las pruebas se realizan a traves open shift DONDE LA PRIMERA COLUMNA ES Numero de paso, la columna 2 descripcion del paso y la columna 3 es la accion o resultado esperado de la prueba 
+
+GENERA UNA MATRIZ DEL PASO A PASO PARA REALIZAR PRUEBAS unitarias en apache kafka DONDE es publicado un mensaje de auditoria a traves un microsercio mq de la capa de integracion. LA PRIMERA COLUMNA ES Numero de paso, la columna 2 descripcion del paso y la columna 3 es la accion o resultado esperado de la prueba 
+
+GENERA UNA MATRIZ DEL PASO A PASO PARA REALIZAR PRUEBAS EN REDIS stream de lectura DONDE redis lee atraves de un listener y propaga la trama de mensaje a un microservicio mq de la capa de integracion . LA PRIMERA COLUMNA ES Numero de paso, la columna 2 descripcion del paso y la columna 3 es la accion o resultado esperado de la prueba 
+
+GENERA UNA MATRIZ DEL PASO A PASO PARA REALIZAR PRUEBAS EN REDIS stream de lectura DONDE LA PRIMERA COLUMNA ES Numero de paso, la columna 2 descripcion del paso y la columna 3 es la accion o resultado esperado de la prueba 
+
