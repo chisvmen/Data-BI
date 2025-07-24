@@ -34,3 +34,10 @@ GENERA UNA MATRIZ DEL PASO A PASO PARA REALIZAR PRUEBAS EN REDIS stream de lectu
 
 GENERA UNA MATRIZ DEL PASO A PASO PARA REALIZAR PRUEBAS EN REDIS stream de lectura DONDE LA PRIMERA COLUMNA ES Numero de paso, la columna 2 descripcion del paso y la columna 3 es la accion o resultado esperado de la prueba 
 
+Genera un diseño estilo infografía informativa de tamaño 1080x1350 de color #F4F0E5 con título “¿Como?” Color guinda divida en 4 secciones estilo abanico donde se enlisten de acuerdo a una iconografía representativa en color guinda: cloud mx , App GOB MX, PUI, Llave MX, CURP biométrica
+
+crea un diseño de 1080x1350 estilo infografia estilo informativa tomando como base la primer imagen, en donde se incrusten la segunda y tercer imagen en circulos considerando solo los rostros alrededor de la primera imagen, no generes cambios en los rostros de la imagen. La infografía deberá contener el titulo “¿Qué paso?”. La infografía debe de estar seccionada en 2 secciones con los siguientes textos.
+
+
+Genera una redacción para una articulo en una revista de nota con el siguiente input "...
+
