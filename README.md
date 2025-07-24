@@ -1,10 +1,10 @@
 # Data-BI
-RepositoryDevEnvironment
+##RepositoryDevEnvironment
 https://public.tableau.com/app/profile/christopher.valenc
 https://public.tableau.com/app/profile/christopher.ricardo.valencia/vizzes
 
 
-#PROMPS
+##PROMPS
 * estilo de animacion
   A partir de esta foto, cree una arte digital con las características de las animaciones de [estilo de animacion]. Considere los detalles de los modelos, ambientes y escenarios. Intente hacer algo original, pero que se asemeje a las películas del estudio. que la imagen sea un rectangular vertical
 
